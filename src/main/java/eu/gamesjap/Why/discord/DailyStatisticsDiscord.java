@@ -10,7 +10,7 @@ import org.spicord.bot.command.DiscordBotCommand;
 import org.spicord.embed.Embed;
 
 import eu.gamesjap.Why.DailyStatistics;
-import net.dv8tion.jda.api.entities.TextChannel;
+import net.dv8tion.jda.api.entities.channel.concrete.TextChannel;
 
 public class DailyStatisticsDiscord extends SimpleAddon {
 
